@@ -1,0 +1,16 @@
+.SearchLine{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.searchlineInput{
+    width: 90vw;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    font-size: 20px;
+}
+
+
